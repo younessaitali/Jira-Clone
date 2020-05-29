@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/younessaitali/client.git
+[submodule "Jira-clone-server"]
+	path = Jira-clone-server
+	url = https://github.com/younessaitali/Jira-clone-server.git
